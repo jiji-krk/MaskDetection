@@ -66,6 +66,3 @@ python detect.py --weights best.pt --img 640 --conf 0.5 --source VideoMask.mp4
 - Train on a **larger dataset** to improve generalization.
 - Optimize inference speed for real-time detection.
 - Deploy as a **web service** using FastAPI or Flask.
-
-
-Would you like any modifications or additions? 🚀
