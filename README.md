@@ -5,7 +5,6 @@ This project focuses on detecting whether individuals in an image or video are w
 
 ## Repository Structure
 - **best.pt**: The trained YOLOv5 model weights.
-- **Mask-Detection-Report_EN.pptx**: A report summarizing the methodology and findings.
 - **streamlit_app.py**: A web application built with Streamlit for real-time mask detection.
 - **Yolov5_Mask_Detection.ipynb**: A Jupyter Notebook containing the training pipeline and evaluation.
 
